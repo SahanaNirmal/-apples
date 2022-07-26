@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 15px;
+	color: rgb(255, 0, 170);
+}
+canvas
+{
+	background: rgb(126, 229, 255);
+	border-radius: 20px;
+}
+h3
+{
+    font-size: 70px;
+    font-family: 'Koulen', cursive;
+}
